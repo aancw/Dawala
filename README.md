@@ -1,2 +1,2 @@
 # Dawala
-An Open Source E-Learning System - Coming Soon
+An Open Source Learning Management System - Coming Soon
